@@ -7,7 +7,7 @@ How to Manually Update Tracki GPS Maps in 2025?
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: https://trackigpsupdate.readthedocs.io/en/latest/_images/update.png
+.. image:: update.png
    :alt: My Project Logo
    :width: 500px
    :align: center
